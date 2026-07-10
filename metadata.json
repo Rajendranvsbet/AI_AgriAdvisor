@@ -1,0 +1,6 @@
+{
+  "name": "AI Agriculture Advisor",
+  "description": "Smart Farming Intelligence Platform that provides AI-powered crop recommendation, disease detection, weather intelligence, soil analysis, fertilizer recommendations, irrigation planning, expense tracking, and market analytics for smart farming.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
